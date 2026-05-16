@@ -1,0 +1,1 @@
+print("Projeto ETL Escolar iniciado com sucesso!")
