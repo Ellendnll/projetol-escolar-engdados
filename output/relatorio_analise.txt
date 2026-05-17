@@ -1,0 +1,5 @@
+RELATÓRIO DE ANÁLISE
+Total alunos: 120
+Aprovados: 28 (23.3%)
+Recuperação: 92 (76.7%)
+Reprovados: 0 (0.0%)
